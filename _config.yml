@@ -1,7 +1,13 @@
 title: Oliver Dai
 logo: nice pic//Mugen-half.jpeg
+
+show_social: true
+show_excerpts: false
+show_frame: true
+show_sidebar: false
+
 description: "Finance Ph.D. Student at Carlson School of Management"
-http://fontawsome/com/incon
+
 external:
   - {title: Mail, icon: envelope, url: "mailto:dai00191@umn.edu"}
   - {title: Linkedin, icon: linkedin, url: www.linkedin.com/in/wenbao-dai"}
