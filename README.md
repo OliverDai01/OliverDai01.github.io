@@ -1,7 +1,7 @@
 # About Me
-Hi, I am a Ph.D. student in finance at University of Minnesota, Carlson School of Management.
+Hi! I am a first-year Finance Ph.D. student at University of Minnesota, Carlson School of Management. My CV is available here.
 
 ### Education
-B.A. in Economics-Quantitative Emphasis and Mathematics
+B.A. in Economics-Quantitative Emphasis and Mathematics, 2024 
 
-### Research
+
