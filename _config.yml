@@ -1,6 +1,7 @@
 title: Oliver Dai
 logo: nice pic//Mugen-half.jpeg
 role: Finance Ph.D. Student
-organizations: University of Minnesota, Carlson School of Management
+organizations:
+ - name: University of Minnesota, Carlson School of Management
 theme: jekyll-theme-minimal
 
