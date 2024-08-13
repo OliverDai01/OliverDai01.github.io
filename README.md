@@ -5,4 +5,8 @@ Hi! I am a first-year Finance Ph.D. student at Carlson School of Management, Uni
 ### Education
 B.A. in Economics-Quantitative Emphasis and Mathematics, University of Minnesota, May 2024
 
+### Quote
+```
+Bliss was it in that dawn to be alive, but to be young was very heaven! BY WILLIAM WORDSWORTH
+```
 
