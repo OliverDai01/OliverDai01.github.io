@@ -3,6 +3,6 @@ Hi! I am a first-year Finance Ph.D. student at University of Minnesota, Carlson 
 
 
 ### Education
-- B.A. in Economics-Quantitative Emphasis and Mathematics, University of Minnesota, Twin Cities (May 2024) 
+- B.A. in Economics-Quantitative Emphasis and Mathematics, University of Minnesota - Twin Cities (May 2024) 
 
 
