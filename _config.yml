@@ -5,6 +5,8 @@ show_social: true
 show_excerpts: false
 show_frame: true
 show_sidebar: false
+blank_title: true
+
 
 description: "Finance Ph.D. Student at Carlson School of Management"
 
