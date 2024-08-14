@@ -5,10 +5,8 @@ Hi! I am a first-year Finance Ph.D. student at Carlson School of Management, Uni
 B.A. in Economics-Quantitative Emphasis and Mathematics, University of Minnesota, May 2024
 
 ### Contact
-**E-mail** \
-    dai00191@umn.edu\
-    
-[Email](dai00191@umn.edu), [Twitter](https://x.com/Oliver_Dai_Econ), [Linkedin](www.linkedin.com/in/wenbao-dai)
+**E-mail**: dai00191@umn.edu\
+[Twitter](https://x.com/Oliver_Dai_Econ), [Linkedin](www.linkedin.com/in/wenbao-dai)
     
 
 ### Quote
