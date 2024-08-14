@@ -10,6 +10,6 @@ Previously, I obtained my B.A. in Economics-Quantitative Emphasis and Mathematic
 
 ### Favourite quote
 Bliss was it in that dawn to be alive, but to be young was very heaven!\
-_By WILLIAM WORDSWORTH, THE PRELUDE_
+_BY WILLIAM WORDSWORTH, THE PRELUDE_
 
 
