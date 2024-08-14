@@ -10,6 +10,19 @@ blank_title: true
 
 description: "Finance Ph.D. Student at Carlson School of Management"
 
+sidebar:
+  - name: Curriculum Vitae
+    link: /CV081324.pdf
+    target: _blank 
+  - name: Github
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/OliverDai01
+  - name: Twitter
+    icon: <i class="fa-brands fa-square-x-twitter"></i>
+    link: https://x.com/Oliver_Dai_Econ
+  - name: Linkedin
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: www.linkedin.com/in/wenbao-dai
 external:
   - {title: Mail, icon: envelope, url: "mailto:dai00191@umn.edu"}
   - {title: Linkedin, icon: linkedin, url: www.linkedin.com/in/wenbao-dai"}
