@@ -8,7 +8,7 @@ Previously, I obtained my B.A. in Economics-Quantitative Emphasis and Mathematic
 [Twitter](https://x.com/Oliver_Dai_Econ), [Linkedin](/OliverDai_LinkedIn.html)
     
 
-### Favourite quote
+### Fav quote
 Bliss was it in that dawn to be alive, but to be young was very heaven!\
 _BY WILLIAM WORDSWORTH, THE PRELUDE_
 
