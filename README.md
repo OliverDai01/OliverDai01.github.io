@@ -9,6 +9,7 @@ B.A. in Economics-Quantitative Emphasis and Mathematics, University of Minnesota
     
 
 ### Quote
-Bliss was it in that dawn to be alive, but to be young was very heaven! _WILLIAM WORDSWORTH_
+Bliss was it in that dawn to be alive, but to be young was very heaven!\
+_WILLIAM WORDSWORTH_
 
 
