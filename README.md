@@ -5,7 +5,7 @@ Previously, I obtained my B.A. in Mathematics and Economics-Quantitative Emphasi
 
 ### Contact
 **E-mail:** dai00191@umn.edu\
-[Twitter](https://x.com/Oliver_Dai_Econ), [LinkedIn](www.linkedin.com/in/oliverdai)
+[Twitter](https://x.com/Oliver_Dai_Econ), [LinkedIn](www.linkedin.com/in/oliver-dai-8716bb215)
     
 
 ### Fav quote
